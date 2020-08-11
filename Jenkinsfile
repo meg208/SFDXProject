@@ -25,7 +25,7 @@ node {
 
     def JWT_KEY_CRED_ID='70cb8ff6-118c-418e-bc4a-c655d6aee691' 
 
-    def scratchOrg = 'Dev1' 
+    def scratchOrg = 'MyDev' 
 
   
 
